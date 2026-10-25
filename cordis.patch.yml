@@ -1,0 +1,4 @@
+- insert:
+    - id: russian-language-pack
+      name: '@local/russian-language-pack'
+      config: {}
